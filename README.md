@@ -1,1 +1,1 @@
-# sampling
+# sample repository
